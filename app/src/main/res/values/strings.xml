@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlmacenamientoExternoApi16</string>
+    <string name="boton1">Consultar</string>
+    <string name="boton2">Guardar</string>
+    <string name="nombre_archivo">Introduzca nombre del archivo</string>
+    <string name="contenido_archivo">Contenido</string>
+</resources>
